@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(248, 215, 155, 0.979);
+    font-family: 'Cambria', sans-serif
+}
+
+.login{
+        width: 400px;
+        height: 340px;
+        background: rgb(122, 183, 253);
+        margin: auto;
+        margin-top: 160px;
+        box-shadow: 7px 13px 37px #000;
+        padding: 20px 30px;
+        border-top: 4px #032f58;
+        color: rgb(0, 0, 0);
+        border-radius: 15px;
+}
+.USUARIO{
+    font-family:'Cambria', serif;
+    padding:15px 30px ;
+    border-radius: 15px;
+    border-top: white;
+}
+
+.CONTRASEÑA{
+    font-family: 'Cambria', sans-serif;
+    border-radius: 15px;
+    border-top: white;
+    padding: 15px 30px;
+}
+.ACCEDER{
+    font-family: 'Cambria', sans-serif;
+    border-radius: 15px;
+    padding: 15px 30px;
+    border-top: white;
+}

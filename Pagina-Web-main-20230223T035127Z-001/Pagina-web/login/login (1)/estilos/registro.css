@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(122, 183, 253);
+}
+.register{
+    width: 450px;
+    height: 700px;
+    background:#f8d99e;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 7px 13px 37px #000;
+    padding: 20px 30px;
+    border-top: 4px #f8baea;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+.controls{
+    font-family: 'Cambria', sans-serif;
+   background-position: center;
+   border-radius: 15px;
+   border-top: 80px;
+   padding: 15px 30px;
+}
+.botons{
+    font-family: 'Cambria', sans-serif;
+    border-radius: 15px;
+    padding: 20px 35px;
+    border-top:80px;
+}
